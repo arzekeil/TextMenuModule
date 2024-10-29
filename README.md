@@ -8,6 +8,10 @@
 - Simple, text-based user interface in the PowerShell console.
 - Customizable options, allowing you to pass any list of strings for selection.
 
+## Example
+
+![Screenshot of Terminal using TextMenuModule](image.png)
+
 ## Installation
 
 1. Clone or download this repository.
